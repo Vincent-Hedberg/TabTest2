@@ -361,7 +361,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   shipPrefab: {fileID: 4625685168171556453, guid: 8d3d91e7f0ab59b4ca959b9c079ca817, type: 3}
-  enemySpeed: 1
 --- !u!1 &1748912568
 GameObject:
   m_ObjectHideFlags: 0
@@ -533,14 +532,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 342159983654466827, guid: 46fcbd673d3b7ea4ab65b1b9f064c56a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.238
-      objectReference: {fileID: 0}
-    - target: {fileID: 342159983654466827, guid: 46fcbd673d3b7ea4ab65b1b9f064c56a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.017
-      objectReference: {fileID: 0}
     - target: {fileID: 3405552354259145084, guid: 46fcbd673d3b7ea4ab65b1b9f064c56a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.38

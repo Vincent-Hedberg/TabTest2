@@ -175,3 +175,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54c9bc844e0fcc5438b497d9722d0266, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  shipSpawner: {fileID: 0}
